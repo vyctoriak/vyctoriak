@@ -14,7 +14,7 @@
 
 - 🏢 I'm currently working full-time at **Uniodonto Campinas**
 - ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
-- 🌱 Learning more about and studying: **React, UI Design **
+- 🌱 Learning more about and studying: **React, UI Design*
 - 💬 Ping me about: **wed design**, **diversity & inclusion**, **Food**, **Beyonce**
 - 💜 Interests: huge Beyonce fan, 🐶 dogs and cats, the sims 
 <!-- - 😄 Passionate about accessibility and committed to a web that works for everyone -->
