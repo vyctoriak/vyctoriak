@@ -9,7 +9,7 @@
 </table>
 </center>
 
-### Hi there, I'm Vyctoria 👋
+### Hi there 👋
 
 <!--
 **vyctoriak/vyctoriak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
