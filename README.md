@@ -12,7 +12,7 @@
 <!-- ### Hi there 👋 -->
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🏢 I'm currently working full-time at **TUniodonto Campinas**
+- 🏢 I'm currently working full-time at **Uniodonto Campinas**
 - ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
 - 🌱 Learning more about and studying: **React, UI Design **
 - 💬 Ping me about: **wed design**, **diversity & inclusion**, **Food**, **Beyonce**
