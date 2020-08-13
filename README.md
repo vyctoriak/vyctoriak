@@ -1,7 +1,5 @@
 ![capa_github_vyctoria](https://raw.githubusercontent.com/vyctoriak/vyctoriak/master/github.png)
 
-### Hi there, I'm Vyctoria 👋
-
 <center>
 <table>
   <tr>
@@ -10,6 +8,8 @@
   </tr>   
 </table>
 </center>
+
+### Hi there, I'm Vyctoria 👋
 
 <!--
 **vyctoriak/vyctoriak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
