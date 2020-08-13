@@ -15,15 +15,16 @@
 - 🏢 I'm currently working full-time at **Uniodonto Campinas**
 - ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
 - 🌱 Learning more about and studying: **React, UI Design**
-- 💬 Ping me about: **wed design**, **diversity & inclusion**, **Food**, **Beyonce**
+- 💬 Ping me about: **wed design**, **diversity & inclusion**, **food**, **Beyonce**
 - 💜 Interests: huge Beyonce fan, 🐶 dogs and cats, the sims 
 <!-- - 😄 Passionate about accessibility and committed to a web that works for everyone -->
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyctoriak/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/karinavyc">Spotify</a>
-<!-- - 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a> -->
 - 🐦 Tweeting about The Sims, life, Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/vyckarina/">Twitter</a>
+<!-- - 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a> -->
+
 
 <!--
 **vyctoriak/vyctoriak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
