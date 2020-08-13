@@ -1,3 +1,5 @@
+![capa_github_vyctoria](https://raw.githubusercontent.com/vyctoriak/vyctoriak/master/github.png)
+
 ### Hi there, I'm Vyctoria 👋
 
 <center>
