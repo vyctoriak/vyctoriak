@@ -25,6 +25,9 @@
 - 🐦 Tweeting about The Sims, life, Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/vyckarina/">Twitter</a>
 <!-- - 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a> -->
 
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playing.karinavyc.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />]
+
 
 <!--
 **vyctoriak/vyctoriak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
