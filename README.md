@@ -17,16 +17,11 @@
 - 🌱 Learning more about and studying: **React, UI Design**
 - 💬 Ping me about: **wed design**, **diversity & inclusion**, **food**, **Beyonce**
 - 💜 Interests: huge Beyonce fan, 🐶 dogs and cats, the sims 
-<!-- - 😄 Passionate about accessibility and committed to a web that works for everyone -->
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyctoriak/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/karinavyc">Spotify</a>
-- 🐦 Tweeting about The Sims, life, Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/vyckarina/">Twitter</a>
-<!-- - 🌐 Updating my personal website with examples of my work on <a href="https://millycodes.com">MillyCodes.com</a> -->
-
-### Spotify Playing 🎧
-[<img src="https://spotify-now-playing.karinavyc.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/karinavyc)
+- 🐦 Tweeting about The Sims, Life, Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/vyckarina/">Twitter</a>
 
 <!--
 **vyctoriak/vyctoriak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
