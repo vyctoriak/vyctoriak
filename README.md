@@ -1,4 +1,4 @@
-![capa_github_vyctoria](https://raw.githubusercontent.com/vyctoriak/vyctoriak/master/capa-vyc.png)
+![capa_github_vyctoria](https://raw.githubusercontent.com/vyctoriak/vyctoriak/master/capa-vyc-att.png)
 
 <center>
   <table>
