@@ -12,10 +12,10 @@
 <!-- ### Hi there 👋 -->
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🏢 I'm currently working full-time at **Uniodonto Campinas**
-- ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`, `.sql`
-- 🌱 Learning more about and studying: **React, UI Design**
-- 💬 Ping me about: **wed design**, **diversity & inclusion**, **food**, **Beyonce**
+<!-- - 🏢 I'm currently working full-time at **Uniodonto Campinas** -->
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.scss`, `.css`, `.svg`, `.png`, `.json`, `.sql`
+- 🌱 Learning more about and studying: **Java**
+- 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **Beyonce**
 - 💜 Interests: huge Beyonce fan, 🐶 dogs and cats, the sims 
 
 #### Find me around the web 🌎:
