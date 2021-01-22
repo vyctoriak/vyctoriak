@@ -14,7 +14,7 @@
 
 <!-- - 🏢 I'm currently working full-time at **Uniodonto Campinas** -->
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.scss`, `.css`, `.svg`, `.png`, `.json`, `.sql`
-- 🌱 Learning more about and studying: **Java**, **React**, **TDD**
+- 🌱 Learning more about and studying: **Java**, **React**, **NextJS**, **TDD**
 - 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **Beyonce**
 - 💜 Interests: huge Beyonce fan, 🐶 dogs and cats, the sims 
 
