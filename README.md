@@ -13,7 +13,7 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <!-- - 🏢 I'm currently working full-time at **Uniodonto Campinas** -->
-- ⚙️ I use daily: `.java`, `.js`, `.html`, `.scss`, `.css`, `.svg`, `.png`, `.json`, `.sql`
+- ⚙️ I use daily: `.jsx`, `.tsx`, `.js`, `.java`, `.html`, `.scss`, `.css`, `.json`, `.sql`
 - 🌱 Learning more about and studying: **Java**, **React**, **NextJS**, **TDD**
 - 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **Beyonce**
 - 💜 Interests: huge Beyonce fan, 🐶 dogs and cats, the sims 
