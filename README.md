@@ -14,7 +14,7 @@
 
 <!-- - 🏢 I'm currently working full-time at **Uniodonto Campinas** -->
 - ⚙️ I use daily: `.jsx`, `.tsx`, `.js`,`.py`, `.java`, `.html`, `.scss`, `.css`, `.json`, `.sql`
-- 🌱 Learning more about and studying: **React**, **NextJS**, **TDD**
+- 🌱 Learning more about and studying: **React**, **NextJS**, **Python**, **TDD**, 
 - 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **Beyonce**
 - 💜 Interests: huge Beyonce fan, 🐶 dogs and cats, the sims 
 
