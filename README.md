@@ -12,11 +12,10 @@
 <!-- ### Hi there 👋 -->
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<!-- - 🏢 I'm currently working full-time at **Uniodonto Campinas** -->
-- ⚙️ I use daily: `.jsx`, `.tsx`, `.js`,`.py`, `.java`, `.html`, `.scss`, `.css`, `.json`, `.sql`
-- 🌱 Learning more about and studying: **React**, **NextJS**, **Python**, **TDD**, 
-- 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **Beyonce**
-- 💜 Interests: huge Beyonce fan, 🐶 dogs and cats, the sims 
+- ⚙️ I use daily: `.jsx`, `.tsx`, `.js`, `.html`, `.scss`, `.css`, `.json`,
+- 🌱 Learning more about and studying: **ReactJS**
+- 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **beyonce**
+- 💜 Interests: huge beyonce fan, 🐶 dogs and cats, the sims 
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyctoriak/">LinkedIn</a>
