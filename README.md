@@ -1,4 +1,4 @@
-![capa_github_vyctoria](https://raw.githubusercontent.com/vyctoriak/vyctoriak/master/capa-vyc-att.png)
+![capa_github_vyctoria](https://raw.githubusercontent.com/vyctoriak/vyctoriak/master/capa-github.png)
 
 <center>
   <table>
@@ -12,7 +12,7 @@
 <!-- ### Hi there 👋 -->
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- ⚙️ I use daily: `.jsx`, `.tsx`, `.js`, `.html`, `.scss`, `.css`, `.json`,
+- ⚙️ I use daily: `.jsx`, `.tsx`, `.js`, `.html`, `.scss`, `.css`, `.json`
 - 🌱 Learning more about and studying: **ReactJS**
 - 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **beyonce**
 - 💜 Interests: huge beyonce fan, 🐶 dogs and cats, the sims game and mobile development 
@@ -20,7 +20,7 @@
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyctoriak/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/karinavyc">Spotify</a>
-- 🐦 Tweeting about life, Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/vyckarina/">Twitter</a>
+- 🐦 Retweeting about life, music, memes and sharing tech tweets on <a href="https://twitter.com/vyckarina/">Twitter</a>
 
 <!--
 **vyctoriak/vyctoriak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
