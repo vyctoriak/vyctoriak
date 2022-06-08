@@ -14,7 +14,7 @@
 
 - ⚙️ I use daily: `.jsx`, `.tsx`, `.js`, `.html`, `.scss`, `.css`, `.json`
 - 🌱 Learning more about and studying: **ReactJS**
-- 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **beyonce**
+<!-- - 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **beyonce** -->
 - 💜 Interests: huge beyonce fan, 🐶 dogs and cats, the sims game and mobile development 
 
 #### Find me around the web 🌎:
