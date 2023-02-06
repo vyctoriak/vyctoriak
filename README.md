@@ -12,7 +12,7 @@
 <!-- ### Hi there 👋 -->
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
 
-- ⚙️ I use daily: `.jsx`, `.tsx`, `.js`, `.html`, `.scss`, `.css`, `.json`
+- ⚙️ I use daily: `.jsx`, `.tsx`, `.js`, `.html`, `.scss`, `.css`, `.json`, `.py`
 - 🌱 Learning more about and studying: **TypeScript**, **Redux**, **React Native**, **NodeJS**
 - 💜 Interests: huge beyonce fan, 🐶 dogs and cats, the sims game and mobile development 
 <!-- - 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **beyonce** -->
