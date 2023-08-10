@@ -18,7 +18,7 @@
 <!-- - 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **beyonce** -->
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyctoriak/">LinkedIn</a>
+- 💼 Connecting and sharing professional updates on <a href="[https://www.linkedin.com/in/vyctoriak/](https://www.linkedin.com/in/vyckarina/)">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/karinavyc">Spotify</a>
 - 🐦 Retweeting about life, music, memes and sharing tech tweets on <a href="https://twitter.com/vyckarina/">Twitter</a>
 
