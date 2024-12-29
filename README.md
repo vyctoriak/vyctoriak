@@ -15,7 +15,6 @@
 - ⚙️ I use daily: `.jsx`, `.tsx`, `.js`, `.html`, `.scss`, `.css`, `.json`, `.py`
 - 🌱 Learning more about and studying: **TypeScript**, **NestJS**, **NodeJS**
 - 💜 Interests: huge beyonce fan, animals, the sims 3 and 4, and programming 
-<!-- - 💬 Ping me about: **tech meetups**, **gaming**, **whatever** -->
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyckarina/">LinkedIn</a>
