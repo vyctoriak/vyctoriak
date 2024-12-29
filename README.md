@@ -13,9 +13,9 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
 
 - ⚙️ I use daily: `.jsx`, `.tsx`, `.js`, `.html`, `.scss`, `.css`, `.json`, `.py`
-- 🌱 Learning more about and studying: **TypeScript**, **Redux**, **React Native**, **NodeJS**
-- 💜 Interests: huge beyonce fan, 🐶 dogs and cats, the sims game and mobile development 
-<!-- - 💬 Ping me about: **web design**, **diversity & inclusion**, **food**, **beyonce** -->
+- 🌱 Learning more about and studying: **TypeScript**, **NestJS**, **NodeJS**
+- 💜 Interests: huge beyonce fan, animals, the sims 3 and 4, and programming 
+<!-- - 💬 Ping me about: **tech meetups**, **gaming**, **whatever** -->
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/vyckarina/">LinkedIn</a>
