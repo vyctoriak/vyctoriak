@@ -1,5 +1,8 @@
 <!-- ![capa_github_vyctoria](https://raw.githubusercontent.com/vyctoriak/vyctoriak/master/capa-github.png) -->
 
+![vyc-github-cover](https://github.com/user-attachments/assets/9bf0c8de-945a-44af-bac3-184ec79ae598)
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vyctoriak&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyctoriak&theme=dracula&hide_border=true" />
